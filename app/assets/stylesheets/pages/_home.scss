@@ -1,4 +1,4 @@
-// .container {
+/ .container {
 //   display: flex;
 //   position: relative;
 // }
@@ -160,6 +160,7 @@ body {
       &__item {
         line-height:80px;
         margin:0;
+        color: red;
       }
       &:after {
       content: '|';
